@@ -1,4 +1,3 @@
-package com.hamitmizrak.main;
 
 public class JenkinsJavaTutorials {
     public static void main(String[] args) {
